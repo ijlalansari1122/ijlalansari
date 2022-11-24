@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>Hello this is my portfolio</h1>
+        <button>Click Me</button>
 
       </header>
     </div>

@@ -5,7 +5,7 @@ const Contact =()=>{
     return(
 <React.Fragment>
 
-<h1>This is contact form</h1>
+<h1>This is contactaA SDAS form</h1>
 
 
 </React.Fragment>

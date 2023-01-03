@@ -1,21 +1,15 @@
-import logo from './logo.svg';
 import './App.css';
 
+import Home from './Components/Home/Home';
 
-
-function App() {
+export default function App() {
 
 
 
   return (
     <div className="App">
-      <header className="App-header">
-        <h1>Hello this is my portfolio</h1>
-        <button>Click Me</button>
+<Home/>
 
-      </header>
     </div>
   );
 }
-
-export default App;

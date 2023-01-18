@@ -1,6 +1,6 @@
 import './App.css';
-
-import Home from './Components/Home/Home';
+import '@mui/material'
+import { Typography } from '@mui/material';
 
 export default function App() {
 
@@ -8,8 +8,14 @@ export default function App() {
 
   return (
     <div className="App">
-<Home/>
 
-    </div>
+
+
+<Typography variant='h1'/>
+
+
+
+
+</div>
   );
 }

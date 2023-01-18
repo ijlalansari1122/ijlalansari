@@ -2,6 +2,20 @@ import React from 'react'
 
 export const Navabar = () => {
   return (
-    <div>Navabar</div>
+    <div>
+      <menu>
+
+<ul>
+
+
+  
+</ul>
+
+
+
+      </menu>
+
+
+    </div>
   )
 }
